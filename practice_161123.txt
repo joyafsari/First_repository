@@ -298,3 +298,20 @@
   298  ll
   299  pwd
   300  history > /home/ahsan/git/practice_161123.txt
+  301  ll
+  302  cat practice_161123.txt 
+  303  git add .
+  304  git commit -m "practice_161123"
+  305  git push origin main 
+  306  git status
+  307  uname
+  308  free
+  309  rsync --help
+  310  [200~1.tar -cvf  file/foldername.tar  file/folderlocation    -----making like zip
+  311  2.scp file/foldername.tar destinationserverlocation(ahsan@192.10.10.10:/home/ahsan/git/)  ---send to destinationserverlocation
+  312  3.tar -xvf  file/foldername.tar    -----making like unzip
+  313  4.scp sourcefilelocation(ahsan@192.10.10.10:/home/ahsan/git/file.foldername.tar)  newserverlocation(/home/ahsan/git/)
+  314  -------------------
+  315  rsync -rv file/foldername destinationserverlocation(ahsan@192.10.10.10:/home/ahsan/git/) ---to sync same file between 2 server ~
+  316* history >
+  317  history > /home/ahsan/git/practice_161123.txt
