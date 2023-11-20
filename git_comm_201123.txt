@@ -1,0 +1,412 @@
+    1  cat etc/os-release
+    2  cat /etc/os-release
+    3  clear
+    4  ca /etc/os
+    5  ca /etc/os-release
+    6  cat /etc/os
+    7  cat /etc/os-release
+    8  ls
+    9  pwd
+   10  cd/
+   11  cd /
+   12  ll
+   13  cd /home/ahsan
+   14  pwd
+   15  cd /home/ahsan
+   16  pwd
+   17  ll
+   18  ls
+   19  touch /demo_file
+   20  sudu touch /demo_file
+   21  sudo touch /demo_file
+   22  ll
+   23  ls
+   24  ll
+   25  pwd
+   26  touch demo_file
+   27  ll
+   28  touch /desktop demo
+   29  sudo touch /desktop demo
+   30  cd /home/ahsan/destop
+   31  cd /home/ahsan/desktop
+   32  cd ..
+   33  ll
+   34  cd /home/ahsan
+   35  cd /home/ahsan/Desktop
+   36  ll
+   37  touch ahsan_demo
+   38  ll
+   39  cd ..
+   40  pwd
+   41  ll
+   42  mkdir ahsan_folder
+   43  mkdir ahsan_file
+   44  ll
+   45  ls
+   46  clr
+   47  clear
+   48  ll
+   49  rmdir ahsan_file
+   50  ll
+   51  rm demo
+   52  ll
+   53  sudo touch /Desktop/ahsandemo1
+   54  sudo touch Desktop/ahsandemo1
+   55  ls Desktop/
+   56  sudo rm Desktop/ahsandemo1
+   57  sudo rm Desktop/ahsan_demo 
+   58  touch ahsan_folder/demo
+   59  ls ahsan_folder/
+   60  mv ahsan_folder/demo Desktop/
+   61  touch abc
+   62  touch Abc
+   63  ll
+   64  rm abc
+   65  ll
+   66  rm Abc
+   67  ll
+   68  pws
+   69  pwd
+   70  rm Desktop/demo 
+   71  sudo apt install vim
+   72  ll
+   73  vim demo_file 
+   74  sudo apt install vim
+   75  vim demo_file 
+   76  clear
+   77  vim demo_file 
+   78  cat demo_file 
+   79  vim demo_file 
+   80  cat demo_file 
+   81  vim demo_file 
+   82  cat demo_file 
+   83  vim demo_file 
+   84  cat demo_file 
+   85  vim demo_file 
+   86  cat demo_file 
+   87  vim demo_file 
+   88  cat demo_file 
+   89  sudo apt install git
+   90  git --version
+   91  git status
+   92  mkdir git
+   93  cd git/
+   94  git status
+   95  git init
+   96  git remote add origin https://github.com/joyafsari/First_repository.git
+   97  git remote -v
+   98  git fetch origin
+   99  ls
+  100  ll
+  101  cat git
+  102  git checkout main
+  103  ls
+  104  ll
+  105  git status
+  106  touch newfile1
+  107  git status
+  108  touch newfile2.txt
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit -m 'first commit' 
+  113  git commit -m "first commit" 
+  114  git config --global user.email "joyafsari@gmail.com"
+  115  git config --global user.name "joyafsari"
+  116  git commit -m "first commit" 
+  117  git push main
+  118  git push origin main
+  119  pwd
+  120  ll
+  121  cd --help
+  122  tail --help 
+  123  cd /
+  124  ll
+  125  tail -n 5 var/
+  126  cd var/
+  127  ll
+  128  cd var/log/
+  129  cd log/
+  130  ll
+  131  cat dpkg.log 
+  132  tail -n 5 dpkg.log 
+  133  clear
+  134  cd /
+  135  cd var/log/nginx
+  136  cd /var/log/nginx
+  137  cd /var/log/
+  138  ll
+  139  pwd
+  140  cd home/ahsan
+  141  cd /home/ahsan
+  142  pwd
+  143  ll
+  144  mkdir ahsan_111523
+  145  ll
+  146  cd  ahsan_111523/
+  147  touch ahsan
+  148  ll
+  149  vim ahsan 
+  150  cat ahsan 
+  151  grep "ahsan" ahsan 
+  152  ip a
+  153  grep --help
+  154  grep "Ahsan" ahsan 
+  155  grep -i "Ahsan" ahsan 
+  156  git status
+  157  cd ..
+  158  git status
+  159  cd home/ahsan/
+  160  ll
+  161  pwd
+  162  git status
+  163  cd git/
+  164  git status
+  165  ll
+  166  cd ..
+  167  ll
+  168  cd ahsan_111523/
+  169  ll
+  170  cat ahsan
+  171  mv ahsan home/ahsan/git/
+  172  mv ahsan home/git/
+  173  cd ..
+  174  ll
+  175  pwd
+  176  mv ahsan home/ahsan/git
+  177  ll ahsan_111523/
+  178  mv ahsan git/
+  179  cd ahsan_111523/
+  180  mv ahsan git/
+  181  mv ahsan /git
+  182  sudo mv ahsan /git
+  183  ll gil/
+  184  ll git/
+  185  ll /git
+  186  cd ..
+  187  cd /git
+  188  cd git/
+  189  ll
+  190  sudo mv ahsan /ahsan/git
+  191  sudo mv ahsan /git
+  192  cd ahsan_111523/
+  193  cd ..
+  194  cd ahsan_111523/
+  195  sudo mv ahsan /ahsan/git
+  196  sudo mv ahsan /git
+  197  mv ahsan /git
+  198  mv ahsan /git/
+  199  cd ..
+  200  ll
+  201  cd ahsan_111523/
+  202  ll
+  203  cd ..
+  204  cd git/
+  205  ll
+  206  cd git/
+  207  cd ..
+  208  ll
+  209  cd ..
+  210  ll
+  211  cd ..
+  212  ll
+  213  grep "ahsan"
+  214  ll
+  215  pwd
+  216  cd home/
+  217  ll
+  218  cd ahsan/
+  219  ll
+  220  cd ahsan_111523/
+  221  touch ahsanhabibi
+  222  ll
+  223  mv ahsanhabibi /git
+  224  sudo mv ahsanhabibi /git
+  225  cd ..
+  226  cd git/
+  227  ll
+  228  cd /
+  229  ll
+  230  cd home/ahsan/ahsan_111523/
+  231  ll
+  232  touch hhhhh
+  233  ll
+  234  sudo mv hhhhh /home/ahsan/git/
+  235  cd ..
+  236  cd git/
+  237  ll
+  238  git add .
+  239  git commit -m "2nd commit"
+  240  git push origin main 
+  241  git status
+  242  git fatch origin
+  243  git fetch origin
+  244  ll
+  245  cat hhhhh
+  246  cat newfile
+  247  vim hhhhh
+  248  ll
+  249  cat newfile2.txt 
+  250  git pull
+  251  ll
+  252  cat hhhhh 
+  253  vim hhhhh 
+  254  git pull
+  255  git push origin main 
+  256  git add .
+  257  git commit -m "3rd Push"
+  258  git push origin main 
+  259  find /home/ -name ahsan
+  260  find / -name ahsan
+  261  find / -name ahsan*
+  262  cd /
+  263  ll
+  264  cd media/
+  265  ll
+  266  cd ahsan/
+  267  ll
+  268  cd /
+  269  cd home/ahsan/
+  270  ll
+  271  find /home/ -name demo*
+  272  find /home/ -name d*
+  273  find /home/ -name *d*
+  274  find /home/ -name *d
+  275  find /home/ -name .*
+  276  find /home/ -name d*
+  277  find /home/ type -d -name d*
+  278  find /home/ type -d -name D*
+  279  find /home/ type -d -name Documents
+  280  find /home/ -type d -name Documents
+  281  find /home/ -type d -name D*
+  282  find /home/ -type d D
+  283  find /home/ -type d -name Documents
+  284  exit
+  285  top
+  286  ps
+  287  du
+  288  du -h
+  289  du -h /home/ahsan
+  290  cd /home/ahsan
+  291  pwd
+  292  ifconfig
+  293  sudo apt install net-tools
+  294  ifconfig
+  295  history
+  296  ll
+  297  cd git/
+  298  ll
+  299  pwd
+  300  history > /home/ahsan/git/practice_161123.txt
+  301  ll
+  302  cat practice_161123.txt 
+  303  git add .
+  304  git commit -m "practice_161123"
+  305  git push origin main 
+  306  git status
+  307  uname
+  308  free
+  309  rsync --help
+  310  [200~1.tar -cvf  file/foldername.tar  file/folderlocation    -----making like zip
+  311  2.scp file/foldername.tar destinationserverlocation(ahsan@192.10.10.10:/home/ahsan/git/)  ---send to destinationserverlocation
+  312  3.tar -xvf  file/foldername.tar    -----git status
+  313  pwd
+  314  cd ..
+  315  pwd
+  316  ll
+  317  cd git/
+  318  pwd
+  319  git status
+  320  git log
+  321  git branch ahsan
+  322  git checkout ahsan
+  323  touch ahsan_181123
+  324  git add .
+  325  git commit -m "first new branch & commit"
+  326  git push origin ahsan 
+  327  ll
+  328  git branch
+  329  git checkout main 
+  330  ll
+  331  git pull ahsan
+  332  sudo git pull ahsan
+  333  git clone https://github.com/joyafsari/First_repository.git
+  334  ll
+  335  cd First_repository/
+  336  ll
+  337  git pull main
+  338  cd ..
+  339  git pull main
+  340  vim practice_161123.txt 
+  341  git pull
+  342  ll
+  343  git fetch origin 
+  344  ll
+  345  git branch
+  346  git checkout ahsan
+  347  git branch
+  348  ll
+  349  cd First_repository/
+  350  ll
+  351  git remote -v
+  352  cd ..
+  353  ll
+  354  git pull
+  355  git pull ahsan
+  356  git pull remote ahsan
+  357  git branch
+  358  git-pull(1)
+  359  git-pull
+  360  git --help
+  361  ll
+  362  git push origin ahsan
+  363  git pull
+  364  git fetch origin ahsan
+  365  git checkout ahsan
+  366  ll
+  367  rm ahsan_181123 
+  368  ll
+  369  git fetch origin ahsan
+  370  ll
+  371  git fetch origin
+  372  git checkout ahsan
+  373  ll
+  374  git pull
+  375  ll
+  376  git checkout -b sf ahsan
+  377  ll
+  378  git pull origin ahsan
+  379  git branch
+  380  git checkout ahsan
+  381  ll
+  382  ls
+  383  ll
+  384  git checkout ahsan
+  385  vim ahsan_181123
+  386  cat ahsan_181123
+  387  git checkout ahsan
+  388  git branch -r
+  389  git pull --all
+  390  git branch --set-upstream-to=origin/ahsan
+  391  git pull
+  392  ll
+  393  git checkout ahsan
+  394  exit
+  395  cat /etc/password/
+  396  cat /etc
+  397  ll
+  398  cat /etc/passwd
+  399  sudo adduser habib
+  400  cat /etc/passwd
+  401  ls /home/
+  402  ls /home
+  403  sudo su habib
+  404  sudo su -habib
+  405  sudo su - habib
+  406  pwd
+  407  cat /etc/group
+  408  sudo usermod -aG sudo habib
+  409  cat /etc/group
+  410  finger habib
+  411  exit
+  412  history> /home/ahsan/git/git_comm_201123.txt
